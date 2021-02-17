@@ -9,7 +9,7 @@
   The early diagnosis of BC can improve the chance of survival significantly, as it can predict timely clinical treatment to patients. Further accurate classification of benign tumors can prevent patients undergoing unnecessary treatments. Thus, the correct diagnosis of BC and classification of patients into malignant or benign groups is the subject of much research. Because of its unique advantages in critical features detection from complex BC datasets, machine learning (ML) is widely recognized as the methodology of choice in BC pattern classification and forecast modelling.
   ![enter image description here](https://github.com/Chetan-git2786/Feature-selection-with-Breast-Cancer-Dataset/blob/main/BC_Img3.png?raw=true)
   
- The dataset has the data w.r.t  several features w.r.t the tumour such as radius,texture,perimeter,area,smoothness,concavity,compactness,concave points etc.,
+ The dataset has the data comprising the several features w.r.t the tumour such as radius,texture,perimeter,area,smoothness,concavity,compactness,concave points etc.,
  ![enter image description here](https://github.com/Chetan-git2786/Feature-selection-with-Breast-Cancer-Dataset/blob/main/BC_Img7.png?raw=true)
  
   Also performed feature selection with different methods like feature selection with correlation, univariate feature selection, recursive feature elimination (RFE), recursive feature elimination with cross validation (RFECV) and tree based feature selection. Random forest is used to classify in order to train our model and predict the tumour type.    
