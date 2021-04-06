@@ -1,3 +1,4 @@
+
 ## Feature Selection on the Breast Cancer Dataset
 **Details about the project** :                                                                                                                                        This project was done with the objective to find out the most influential features available in the dataset that cause Breast cancer in women. enter image description here
    Breast cancer (BC) is one of the most common cancers among women worldwide, representing the majority of new cancer cases and cancer-related deaths according to global statistics, making it a significant public health problem in today’s society.
@@ -20,8 +21,7 @@ In this project, the python code was written by making use of the Python Librari
 **Conclusion :** 
 From the above visualization & the various feature selection methods , we can say that the features "radius_mean", texture_mean" are the most important factors to predict whether the Tumour is benign or Malignant
 
-To check out the notebook, please click [here](https://github.com/Chetan-git2786/Feature-selection-with-Breast-Cancer-Dataset/commit/4ed8efd34ce944c4d929e64392c5cf3076646253#diff-8bd4b8c5be8dac74ff11b443d1ba2799423102f9d6e894ff17a270b314b26d45)
+To check out the notebook, please click [here](https://github.com/Chetan-git2786/Feature_Sel_on_breast_cancer_DS/blob/638acedc9aef5752103c2241a5065abc4fbce929/FSelection_on_Breast_cancer_dataset.ipynb)
 
 ![enter image description here](https://github.com/Chetan-git2786/Feature-selection-with-Breast-Cancer-Dataset/blob/main/BC_Img2.png?raw=true)
-
 
